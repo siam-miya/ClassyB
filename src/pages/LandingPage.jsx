@@ -54,7 +54,7 @@ export default function LandingPage() {
  
           {/* CTA + hamburger */}
           <div className="flex items-center gap-2">
-            <a href="tel:01700000000"
+            <a href="tel:01793293600"
               className="bg-yellow-400 text-gray-900 text-xs sm:text-sm font-black px-3 sm:px-4 py-2 rounded-full hover:bg-yellow-300 transition-all flex items-center gap-1 shadow">
               📞 <span className="hidden sm:inline">Call Now</span>
               <span className="sm:hidden">Call Now</span>
@@ -310,7 +310,7 @@ New products coming soon...</p>
           </div>
  
           <div className="border-t border-gray-800 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs">
-            <p>📞 01700-000000 &nbsp;|&nbsp; ✉️ fashionbd@email.com</p>
+            <p>📞 01793293600 &nbsp;|&nbsp; ✉️ Yeasin@email.com</p>
             <p>© 2026 FashionBD. সর্বস্বত্ব সংরক্ষিত।</p>
           </div>
  
