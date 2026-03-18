@@ -11,7 +11,7 @@ export default function App() {
       <Routes>
         {/* Public */}
         <Route path="/" element={<LandingPage />} />
-        <Route path="/admin/login" element={<AdminLogin />} />
+        <Route path="/login" element={<AdminLogin />} />
  
         {/* Protected — login না করলে /admin/login এ redirect হবে */}
         <Route
