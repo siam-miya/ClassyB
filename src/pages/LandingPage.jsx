@@ -289,7 +289,7 @@ New products coming soon...</p>
       </section>
  
       {/* ══ FOOTER ══ */}
-      <footer className="bg-gray-900 text-gray-400 py-8 sm:py-10 px-4">
+      <footer className="bg-[#1a3a5c] text-gray-400 py-8 sm:py-10 px-4">
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-6 mb-6">
             {/* Brand */}
